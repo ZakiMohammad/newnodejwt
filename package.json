@@ -1,0 +1,35 @@
+{
+  "name": "newnodejwt",
+  "version": "1.0.0",
+  "description": "New Node and JWT application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ZakiMohammad/newnodejwt.git"
+  },
+  "keywords": [
+    "nodejs",
+    "jwt",
+    "github"
+  ],
+  "author": "zaki <zeusreus011@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/polyfill": "^7.2.5",
+    "@babel/preset-env": "^7.2.3",
+    "@babel/register": "^7.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ZakiMohammad/newnodejwt/issues"
+  },
+  "homepage": "https://github.com/ZakiMohammad/newnodejwt#readme"
+}
